@@ -4,7 +4,7 @@ Console applications for database administration (C#, NHibernate, PostrgreSQL)
 
 Necessary packages to run the program: NHibernate
 
-The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/NHibernate_PC/blob/main/Client/Program.cs)
+The starting point of the programm: [Program.cs](https://github.com/Tolib-Angle/NHibernate_PC/blob/main/Program.cs)
 
 BackUp database stored in file: [PublishingCenter](https://github.com/Tolib-Angle/NHibernate_PC/blob/main/PublishingCenter.txt) (! _The date in the database is fictional_ !)
 
